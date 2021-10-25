@@ -6,3 +6,5 @@ This is for a Udemy course, so i can test and practice the fine arts of GIT
 
 1. index.html
 2. other files will follow
+3. Its all good
+4. 
